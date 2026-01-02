@@ -1,16 +1,16 @@
-# 📄 OCR Practice – LLM-Based Text Extraction using Mistral AI
+# 📄 OCR Practice – Document Text Extraction using Mistral OCR
 
 ## 📌 Overview
-This project explores **AI-driven text extraction from image-based documents** using the **Mistral AI API**.
+This project explores **Optical Character Recognition (OCR)** using **Mistral AI’s OCR capabilities** to extract text from image-based documents.
 
-Instead of using traditional OCR engines or image-processing libraries, this project focuses on leveraging a **large language model (LLM)** to interpret and extract textual information directly, aligning with modern **GenAI-powered document intelligence workflows**.
-
+The focus of this project is to understand how **modern GenAI-powered OCR systems** work and how they can be integrated into document intelligence pipelines for downstream NLP and analysis tasks.
 
 ## 🎯 Objectives
-- Explore LLM-based approaches to image-to-text extraction
-- Understand how Generative AI can be used for document intelligence
-- Build an API-driven pipeline for text extraction
+- Extract text from images using **Mistral OCR**
+- Understand AI-based OCR workflows
+- Build an API-driven document processing pipeline
 - Create a foundation for NLP and legal document analysis systems
+
 
 
 ## 🛠️ Tech Stack
@@ -20,19 +20,19 @@ Instead of using traditional OCR engines or image-processing libraries, this pro
 
 
 ## 🔍 Key Features
-- Image-based text extraction using **Mistral AI**
-- AI-driven understanding of document content
-- Clean and structured textual output
-- Lightweight and extensible architecture
-- No dependency on traditional OCR engines
+- Image-to-text extraction using **Mistral OCR**
+- AI-powered interpretation of document content
+- Clean and readable text output
+- Lightweight, API-driven design
+- Suitable for scanned documents and image-based files
 
 
 ## 🧠 How It Works
-1. Image data is provided as input to the system
-2. The image is sent to **Mistral AI** via API
-3. Mistral interprets the image and extracts text
-4. Extracted content is returned in structured text form
-5. Output can be used for NLP or downstream analysis
+1. Image-based document is provided as input  
+2. The document is sent to **Mistral OCR** via API  
+3. Mistral OCR extracts and interprets textual content  
+4. Extracted text is returned in structured format  
+5. Output can be used for NLP, validation, or analysis  
 
 
 🚀 Future Enhancements
