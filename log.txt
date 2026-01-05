@@ -1,0 +1,10 @@
+
+============================================================
+Timestamp: 2026-01-05 22:25:52
+Total Lines: 4
+Overall Confidence: 0.85
+Low Confidence Count: 1
+Document Summary: A document describing a two-phase community service initiative called Pazruaí organized by the Rotar...
+Low Confidence Lines:
+  Line 1: The robaract club of GCT cainbatore organized Pazruaí as a two-phase community... (confidence: 0.75)
+============================================================
