@@ -46,7 +46,7 @@ analysis_raw = llm_response.choices[0].message.content
 try:
     analysis_json = json.loads(analysis_raw)
 except json.JSONDecodeError:
-    print("❌ LLM did not return valid JSON")
+    print("LLM did not return valid JSON")
     print(analysis_raw)
     exit(1)
 
